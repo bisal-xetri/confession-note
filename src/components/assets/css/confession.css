@@ -1,0 +1,35 @@
+.confession-main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.confession-div{
+    width: 400px;
+    border: 1px solid blue;
+    border-radius: 10px;
+   
+
+}
+.confession-div textarea{
+    margin: 20px;
+    outline:none;
+    border: none;
+    resize: none;
+    padding: 10px;
+  
+
+}
+.create-btn{
+
+   margin-left: 40%;
+   margin-bottom: 20px;
+   border: none;
+   background-color: blue;
+   color: white;
+   padding: 10px;
+   width: 100px;
+   border-radius: 10px;
+   cursor: pointer;
+
+}

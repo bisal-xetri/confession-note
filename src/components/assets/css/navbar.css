@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgba(137, 43, 226, 0.682);
+}
+.navbar div h1{
+    font-size: 24px;
+    
+}

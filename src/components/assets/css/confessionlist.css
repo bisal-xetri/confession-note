@@ -1,0 +1,16 @@
+.confession-list{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:10px;
+   
+}
+.confession-card{
+    height:200px ;
+    width: 35%;
+    /* border: 1px solid blue; */
+    border-radius: 12px;
+     box-shadow: 0px 0px 5px #ccc;
+    
+   
+}
